@@ -7,7 +7,7 @@
 
 This repository tracks notable **SaaS platforms** and **open-source projects** building **AI Inbox assistants** — intelligent tools that read your emails, understand context, auto-draft high-quality responses, suggest replies, summarize threads, prioritize messages, and help clear your inbox efficiently.
 
-**Examples** include Shram AI, Littlebird, Shadow, Taskade, Notion AI, and Firefly AI (the category leaders). Tools listed here emphasize **agentic capabilities** (context-aware drafting, tone matching, multi-email reasoning, follow-up suggestions, and seamless integration with Gmail/Outlook).
+**Examples** include Shram AI, Littlebird, Shortwave, Taskade, Notion AI, and Fireflies.ai (the category leaders). Tools listed here emphasize **agentic capabilities** (context-aware drafting, tone matching, multi-email reasoning, follow-up suggestions, and seamless integration with Gmail/Outlook).
 
 **Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local LLMs (Ollama), full email privacy, and complete customization — ideal for professionals and teams who want sovereign AI email assistance without sending data to third parties.
 
@@ -23,27 +23,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (AI Inbox Assistants)
 
-- **[Shram AI](https://shram.ai/)**  
-  Intelligent AI inbox assistant that auto-drafts personalized replies, summarizes threads, and helps achieve inbox zero with contextual understanding.
-
-- **[Littlebird](https://littlebird.ai/)**  
-  Smart AI email companion focused on high-quality response drafting and natural conversation flow.
-
-- **[Shadow](https://shadow.ai/)**  
-  Privacy-first AI inbox tool that drafts replies and manages communications with strong context retention.
-
-- **[Taskade AI](https://taskade.com/)**  
-  AI-powered workspace with strong email integration and auto-drafting capabilities across tasks and messages.
-
-- **[Notion AI](https://www.notion.so/ai)**  
-  Integrated AI assistant that works inside Notion databases and can draft email responses from notes and wikis.
-
-- **[Firefly AI](https://firefly.ai/)**  
-  AI email assistant focused on professional response generation and inbox organization.
+| SaaS Product | Description | Pricing / Free Tier |
+| :--- | :--- | :--- |
+| **[Shram AI](https://shram.ai/)** | Ambient AI assistant that monitors Gmail/Slack to draft contextual replies and follow-ups. | Free beta/early access (Mac). Pro plan for task management at $10/mo. |
+| **[Littlebird](https://littlebird.ai/)** | AI "2nd brain" that learns from your screen and meetings to draft content and perform actions. | Free download available. Littlebird Plus for students at $15/mo. |
+| **[Shortwave](https://www.shortwave.com/)** | AI email client for Gmail focused on automated drafting, thread summarization, and scheduling. | **Free tier** for personal use. Paid plans for unlimited AI and history. |
+| **[Taskade AI](https://taskade.com/)** | Unified AI workspace for managing tasks and notes with automated email and messaging agents. | **Free tier** with limited credits. Paid plans start at ~$4/mo (billed annually). |
+| **[Notion AI](https://www.notion.so/ai)** | AI-powered writing and drafting assistant integrated directly into Notion pages and databases. | **$10/mo add-on**. One-time trial of 20 AI responses available for free. |
+| **[Fireflies.ai](https://fireflies.ai/)** | AI meeting assistant that records, transcribes, and generates automated email follow-ups. | **Free tier** (800 mins storage, 20 AI credits/mo). Pro plan from $10/mo. |
+| **[Superhuman](https://superhuman.com/)** | High-performance email client with AI thread summaries and "Superhuman Go" writing assistant. | **$30/mo per user**. No permanent free tier; often offers a 30-day trial. |
+| **[SaneBox](https://www.sanebox.com/)** | Intelligent email management layer that filters noise and sends follow-up reminders. | **14-day free trial**. Paid plans start at ~$7/mo for basic features. |
 
 ### Advanced & Specialized Platforms
 
-**Other notable mentions**: Superhuman AI, Shortwave, SaneBox with AI, and Gmail + Gemini integrations.
+**Other notable mentions**: Gmail + Gemini integrations and custom enterprise solutions.
 
 ## Open-Source GitHub Projects
 
