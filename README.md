@@ -1,97 +1,99 @@
-# Awesome-AI-Inbox
-## Top AI Inbox & Intelligent Email Assistants Ecosystem
+# 🚀 Awesome-AI-Inbox
+## The Ultimate Ecosystem of Intelligent Email Assistants & AI Inbox Tools
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on AI-Powered Email Drafting, Reply Suggestions & Smart Inbox Management*  
-**Last updated: March 2026**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=AI%20Inbox%20Ecosystem&fontSize=70" alt="Awesome AI Inbox Banner" />
+</p>
 
-This repository tracks notable **SaaS platforms** and **open-source projects** building **AI Inbox assistants** — intelligent tools that read your emails, understand context, auto-draft high-quality responses, suggest replies, summarize threads, prioritize messages, and help clear your inbox efficiently.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge&logo=openai" alt="AI Powered" />
+  <img src="https://img.shields.io/badge/Status-Curated-success?style=for-the-badge&logo=github" alt="Status Curated" />
+  <img src="https://img.shields.io/badge/Focus-Privacy-green?style=for-the-badge&logo=shield" alt="Focus Privacy" />
+  <img src="https://img.shields.io/badge/Open--Source-Friendly-orange?style=for-the-badge&logo=opensourceinitiative" alt="Open Source Friendly" />
+</p>
 
-**Examples** include Shram AI, Littlebird, Shortwave, Taskade, Notion AI, and Fireflies.ai (the category leaders). Tools listed here emphasize **agentic capabilities** (context-aware drafting, tone matching, multi-email reasoning, follow-up suggestions, and seamless integration with Gmail/Outlook).
+---
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local LLMs (Ollama), full email privacy, and complete customization — ideal for professionals and teams who want sovereign AI email assistance without sending data to third parties.
+**Awesome-AI-Inbox** is a curated list of **SaaS platforms** and **open-source projects** building **intelligent AI Inbox assistants**. These tools help you achieve **Inbox Zero** by reading emails, understanding context, auto-drafting replies, summarizing threads, and prioritizing your most important messages.
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+**✨ Why this matters:** In the age of information overload, AI assistants act as a digital gatekeeper, ensuring you spend less time on manual sorting and more time on high-value work.
 
-## Table of Contents
-- [SaaS Products](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+> **Examples** include Shram AI, Littlebird, Shortwave, Taskade, Notion AI, and Fireflies.ai (the category leaders). Tools listed here emphasize **agentic capabilities** (context-aware drafting, tone matching, multi-email reasoning, follow-up suggestions, and seamless integration with Gmail/Outlook).
 
-## SaaS Products
+---
+
+## 🗺️ Table of Contents
+- [💎 SaaS Products](#-saas-products)
+- [🏠 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#-disclaimer)
+
+---
+
+## 💎 SaaS Products
 
 ### Core Platforms (AI Inbox Assistants)
 
 | SaaS Product | Description | Pricing / Free Tier |
 | :--- | :--- | :--- |
-| **[Shram AI](https://shram.ai/)** | Ambient AI assistant that monitors Gmail/Slack to draft contextual replies and follow-ups. | Free beta/early access (Mac). Pro plan for task management at $10/mo. |
-| **[Littlebird](https://littlebird.ai/)** | AI "2nd brain" that learns from your screen and meetings to draft content and perform actions. | Free download available. Littlebird Plus for students at $15/mo. |
-| **[Shortwave](https://www.shortwave.com/)** | AI email client for Gmail focused on automated drafting, thread summarization, and scheduling. | **Free tier** for personal use. Paid plans for unlimited AI and history. |
-| **[Taskade AI](https://taskade.com/)** | Unified AI workspace for managing tasks and notes with automated email and messaging agents. | **Free tier** with limited credits. Paid plans start at ~$4/mo (billed annually). |
-| **[Notion AI](https://www.notion.so/ai)** | AI-powered writing and drafting assistant integrated directly into Notion pages and databases. | **$10/mo add-on**. One-time trial of 20 AI responses available for free. |
-| **[Fireflies.ai](https://fireflies.ai/)** | AI meeting assistant that records, transcribes, and generates automated email follow-ups. | **Free tier** (800 mins storage, 20 AI credits/mo). Pro plan from $10/mo. |
-| **[Superhuman](https://superhuman.com/)** | High-performance email client with AI thread summaries and "Superhuman Go" writing assistant. | **$30/mo per user**. No permanent free tier; often offers a 30-day trial. |
-| **[SaneBox](https://www.sanebox.com/)** | Intelligent email management layer that filters noise and sends follow-up reminders. | **14-day free trial**. Paid plans start at ~$7/mo for basic features. |
+| **[Shram AI](https://shram.ai/)** | 🧠 Ambient AI assistant that monitors Gmail/Slack to draft contextual replies. | Free beta (Mac). Pro at $10/mo. |
+| **[Littlebird](https://littlebird.ai/)** | 🕊️ AI "2nd brain" that learns from your screen to draft content and perform actions. | Free download. Student Plus at $15/mo. |
+| **[Shortwave](https://www.shortwave.com/)** | ⚡ AI email client for Gmail focused on automated drafting and scheduling. | **Free tier** for personal use. |
+| **[Taskade AI](https://taskade.com/)** | 🤖 Unified AI workspace with automated email and messaging agents. | **Free tier** available. Paid from ~$4/mo. |
+| **[Notion AI](https://www.notion.so/ai)** | 📝 AI writing assistant integrated directly into Notion pages and databases. | **$10/mo add-on**. 20 free trial responses. |
+| **[Fireflies.ai](https://fireflies.ai/)** | 🐝 AI meeting assistant that generates automated email follow-ups. | **Free tier** (20 AI credits/mo). Pro from $10/mo. |
+| **[Superhuman](https://superhuman.com/)** | 🏎️ High-speed email client with AI thread summaries and drafting assistants. | **$30/mo**. No permanent free tier. |
+| **[SaneBox](https://www.sanebox.com/)** | 📥 Intelligent email filter that removes noise and sends follow-up reminders. | **14-day free trial**. Paid from ~$7/mo. |
 
-### Advanced & Specialized Platforms
-
+### 🛠️ Advanced & Specialized Platforms
 **Other notable mentions**: Gmail + Gemini integrations and custom enterprise solutions.
-
-## Open-Source GitHub Projects
-
-### Dedicated AI Inbox & Email Assistant Projects
-
-- **[OpenAI Email Assistant](https://github.com/search?q=openai+email+assistant)** (and community forks)  
-  Popular open-source templates using local LLMs (Ollama) to read IMAP/Gmail and auto-draft replies with full privacy.
-
-- **[Mailcow + AI Extensions](https://github.com/mailcow/mailcow-dockerized)**  
-  Complete open-source mail server stack that can be extended with local LLM agents for intelligent drafting and summarization.
-
-- **[Thunderbird + LLM Integrations](https://github.com/search?q=thunderbird+llm)**  
-  Extensions and scripts that bring NotebookLM-style AI drafting and reply suggestions directly into Thunderbird.
-
-- **[AI-Email-Assistant](https://github.com/search?q=ai+email+assistant+ollama)**  
-  Multiple community projects combining Ollama, IMAP, and LangChain for fully local auto-drafting systems.
-
-- **[Inbox Zero](https://github.com/search?q=inbox+zero+ai)**  
-  Open-source tools and scripts designed to help users reach inbox zero using local AI for prioritization and drafting.
-
-- **[SillyTavern / Text Generation WebUI Email Bridges](https://github.com/SillyTavern/SillyTavern)**  
-  Character-driven AI setups adapted for professional email response generation with local models.
-
-- **[LangGraph Email Agent](https://github.com/langchain-ai/langgraph)** (email workflow examples)  
-  Stateful agent frameworks for building sophisticated email understanding and response agents.
-
-- **[PrivateGPT + Email Connectors](https://github.com/imartinez/privateGPT)**  
-  Local document RAG system extended by community for processing email threads and generating replies.
-
-### Additional Strong Open-Source Options
-
-- **[Huginn](https://github.com/huginn/huginn)** — Open-source automation agent that can monitor email and trigger AI drafting workflows.
-- **[n8n](https://github.com/n8n-io/n8n)** — Workflow automation with LLM nodes for building custom email AI pipelines.
-- **[AppFlowy / Anytype** with AI plugins — Local-first knowledge bases that integrate with email drafting.
-- **IMAP + Ollama Python scripts** — Numerous lightweight community repositories for personal AI email assistants.
-- **Postfix / Dovecot + AI filters** — Self-hosted mail server stacks enhanced with local LLM processing.
-
-**Frameworks for building custom assistants**: Combine **Ollama** + **LangGraph** + **IMAP libraries** + **Gmail API (local auth)** to create fully private, powerful AI inbox systems that run on your own machine or server.
-
-## How to Contribute
-
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Always review AI-generated email drafts for accuracy, tone, and compliance before sending.
-- Self-hosted open-source solutions require careful security configuration when connecting to email accounts.
 
 ---
 
-**Made for busy professionals, founders, support teams, and productivity enthusiasts.**  
-Let's make email management smarter, faster, and fully private.
+## 🏠 Open-Source GitHub Projects
+
+### Dedicated AI Inbox & Email Assistant Projects
+
+- **[OpenAI Email Assistant](https://github.com/search?q=openai+email+assistant)** 🤖  
+  Popular templates using local LLMs (Ollama) for private IMAP/Gmail auto-drafting.
+
+- **[Mailcow + AI Extensions](https://github.com/mailcow/mailcow-dockerized)** 🐄  
+  Complete mail server stack extendable with local LLM agents for summarization.
+
+- **[Thunderbird + LLM Integrations](https://github.com/search?q=thunderbird+llm)** 🐦  
+  Extensions bringing NotebookLM-style AI drafting directly into Thunderbird.
+
+- **[AI-Email-Assistant](https://github.com/search?q=ai+email+assistant+ollama)** 🐍  
+  Community projects combining Ollama, IMAP, and LangChain for local systems.
+
+- **[Inbox Zero](https://github.com/search?q=inbox+zero+ai)** 🎯  
+  Open-source tools designed to help users reach inbox zero using local AI.
+
+### 🛡️ Privacy & Self-Hosted Frameworks
+Combine **Ollama** + **LangGraph** + **IMAP libraries** to create fully private AI inbox systems.
+
+---
+
+## 🤝 How to Contribute
+
+1. **Fork** the repo.
+2. **Add/edit** entries (follow existing format).
+3. **Link** to official sites only.
+4. **Submit PR** with a short explanation.
+
+⭐ **Star the repo if you find it useful!**
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated** list — not exhaustive.
+- Always review AI-generated drafts for accuracy and tone.
+- Self-hosted solutions require careful security configuration.
+
+---
+
+<p align="center">
+  <b>Made for busy professionals, founders, and productivity enthusiasts.</b><br>
+  <i>Let's make email management smarter, faster, and fully private.</i>
+</p>
