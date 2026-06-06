@@ -1,3 +1,5 @@
+<!-- Keywords: AI Email, AI Inbox, Inbox Zero, Intelligent Email, Email Assistant, Smart Inbox, AI Drafting, LLM Email, Open Source Email AI, Gmail AI, Outlook AI -->
+
 # 🚀 Awesome-AI-Inbox
 ## The Ultimate Ecosystem of Intelligent Email Assistants & AI Inbox Tools
 
@@ -14,7 +16,7 @@
 
 ---
 
-**Awesome-AI-Inbox** is a curated list of **SaaS platforms** and **open-source projects** building **intelligent AI Inbox assistants**. These tools help you achieve **Inbox Zero** by reading emails, understanding context, auto-drafting replies, summarizing threads, and prioritizing your most important messages.
+**Awesome-AI-Inbox** is an open-source curated directory for **professionals and developers** who want to **automate email management using AI**. This repository tracks the best SaaS and open-source tools for context-aware drafting, thread summarization, and intelligent inbox prioritization.
 
 **✨ Why this matters:** In the age of information overload, AI assistants act as a digital gatekeeper, ensuring you spend less time on manual sorting and more time on high-value work.
 
@@ -25,6 +27,7 @@
 ## 🗺️ Table of Contents
 - [💎 SaaS Products](#-saas-products)
 - [🏠 Open-Source GitHub Projects](#-open-source-github-projects)
+- [📈 Momentum](#-momentum)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚠️ Disclaimer](#-disclaimer)
 
@@ -42,7 +45,7 @@
 | **[Taskade AI](https://taskade.com/)** | 🤖 Unified AI workspace with automated email and messaging agents. | **Free tier** available. Paid from ~$4/mo. |
 | **[Notion AI](https://www.notion.so/ai)** | 📝 AI writing assistant integrated directly into Notion pages and databases. | **$10/mo add-on**. 20 free trial responses. |
 | **[Fireflies.ai](https://fireflies.ai/)** | 🐝 AI meeting assistant that generates automated email follow-ups. | **Free tier** (20 AI credits/mo). Pro from $10/mo. |
-| **[Superhuman](https://superhuman.com/)** | 🏎️ High-speed email client with AI thread summaries and drafting assistants. | **$30/mo**. No permanent free tier. |
+| **[Superhuman](https://superhuman.com/)** | 🏎️ High-performance email client with AI thread summaries and drafting assistants. | **$30/mo**. No permanent free tier. |
 | **[SaneBox](https://www.sanebox.com/)** | 📥 Intelligent email filter that removes noise and sends follow-up reminders. | **14-day free trial**. Paid from ~$7/mo. |
 
 ### 🛠️ Advanced & Specialized Platforms
@@ -64,13 +67,23 @@
   Extensions bringing NotebookLM-style AI drafting directly into Thunderbird.
 
 - **[AI-Email-Assistant](https://github.com/search?q=ai+email+assistant+ollama)** 🐍  
-  Community projects combining Ollama, IMAP, and LangChain for local systems.
+  Community projects combining Ollama, IMAP, and LangChain for fully local systems.
 
 - **[Inbox Zero](https://github.com/search?q=inbox+zero+ai)** 🎯  
   Open-source tools designed to help users reach inbox zero using local AI.
 
 ### 🛡️ Privacy & Self-Hosted Frameworks
 Combine **Ollama** + **LangGraph** + **IMAP libraries** to create fully private AI inbox systems.
+
+---
+
+## 📈 Momentum
+
+<p align="center">
+  <a href="https://star-history.com/#ishan-sharma/Awesome-AI-Inbox&Date">
+    <img src="https://api.star-history.com/svg?repos=ishan-sharma/Awesome-AI-Inbox&type=Date" alt="Star History Chart" />
+  </a>
+</p>
 
 ---
 
