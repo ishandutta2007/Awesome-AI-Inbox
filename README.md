@@ -4,7 +4,7 @@
 ## The Ultimate Ecosystem of Intelligent Email Assistants & AI Inbox Tools
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=AI%20Inbox%20Ecosystem&fontSize=70" alt="Awesome AI Inbox Banner" />
+  <img src="./assets/banner.svg" alt="Awesome AI Inbox Banner" />
 </p>
 
 <p align="center">
