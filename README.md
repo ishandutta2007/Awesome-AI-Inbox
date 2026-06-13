@@ -12,6 +12,9 @@
   <img src="https://img.shields.io/badge/Status-Curated-success?style=for-the-badge&logo=github" alt="Status Curated" />
   <img src="https://img.shields.io/badge/Focus-Privacy-green?style=for-the-badge&logo=shield" alt="Focus Privacy" />
   <img src="https://img.shields.io/badge/Open--Source-Friendly-orange?style=for-the-badge&logo=opensourceinitiative" alt="Open Source Friendly" />
+<a href="https://github.com/ishandutta2007">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+</a>
 </p>
 
 ---
