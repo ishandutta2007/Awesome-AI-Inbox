@@ -37,16 +37,16 @@
 
 ### Core Platforms (AI Inbox Assistants)
 
-| SaaS Product | Description | Pricing / Free Tier |
-| :--- | :--- | :--- |
-| **[Shram AI](https://shram.ai/)** | 🧠 Ambient AI assistant that monitors Gmail/Slack to draft contextual replies. | Free beta (Mac). Pro at $10/mo. |
-| **[Littlebird](https://littlebird.ai/)** | 🕊️ AI "2nd brain" that learns from your screen to draft content and perform actions. | Free download. Student Plus at $15/mo. |
-| **[Shortwave](https://www.shortwave.com/)** | ⚡ AI email client for Gmail focused on automated drafting and scheduling. | **Free tier** for personal use. |
-| **[Taskade AI](https://taskade.com/)** | 🤖 Unified AI workspace with automated email and messaging agents. | **Free tier** available. Paid from ~$4/mo. |
-| **[Notion AI](https://www.notion.so/ai)** | 📝 AI writing assistant integrated directly into Notion pages and databases. | **$10/mo add-on**. 20 free trial responses. |
-| **[Fireflies.ai](https://fireflies.ai/)** | 🐝 AI meeting assistant that generates automated email follow-ups. | **Free tier** (20 AI credits/mo). Pro from $10/mo. |
-| **[Superhuman](https://superhuman.com/)** | 🏎️ High-performance email client with AI thread summaries and drafting assistants. | **$30/mo**. No permanent free tier. |
-| **[SaneBox](https://www.sanebox.com/)** | 📥 Intelligent email filter that removes noise and sends follow-up reminders. | **14-day free trial**. Paid from ~$7/mo. |
+| SaaS Product | Description | Pricing / Free Tier | Company Size |
+| :--- | :--- | :--- | :--- |
+| **[Notion AI](https://www.notion.so/ai)** | 📝 AI writing assistant integrated directly into Notion pages and databases. | **$10/mo add-on**. 20 free trial responses. | $10B Valuation |
+| **[Fireflies.ai](https://fireflies.ai/)** | 🐝 AI meeting assistant that generates automated email follow-ups. | **Free tier** (20 AI credits/mo). Pro from $10/mo. | $1B Valuation |
+| **[Superhuman](https://superhuman.com/)** | 🏎️ High-performance email client with AI thread summaries and drafting assistants. | **$30/mo**. No permanent free tier. | $825M Valuation |
+| **[Littlebird](https://littlebird.ai/)** | 🕊️ AI "2nd brain" that learns from your screen to draft content and perform actions. | Free download. Student Plus at $15/mo. | $11M Valuation |
+| **[Shram AI](https://shram.ai/)** | 🧠 Ambient AI assistant that monitors Gmail/Slack to draft contextual replies. | Free beta (Mac). Pro at $10/mo. | $9.1M Valuation |
+| **[SaneBox](https://www.sanebox.com/)** | 📥 Intelligent email filter that removes noise and sends follow-up reminders. | **14-day free trial**. Paid from ~$7/mo. | $6.9M Valuation |
+| **[Shortwave](https://www.shortwave.com/)** | ⚡ AI email client for Gmail focused on automated drafting and scheduling. | **Free tier** for personal use. | $5.6M Valuation |
+| **[Taskade AI](https://taskade.com/)** | 🤖 Unified AI workspace with automated email and messaging agents. | **Free tier** available. Paid from ~$4/mo. | $1.6M Revenue |
 
 ### 🛠️ Advanced & Specialized Platforms
 **Other notable mentions**: Gmail + Gemini integrations and custom enterprise solutions.
